@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <h1>hello vue</h1>
-    <router-view></router-view>
+      <h1>登陆</h1>
   </div>
 </template>
 
